@@ -1,0 +1,12 @@
+{
+  "name": "Home-Cine",
+  "displayName": "Home-Cine",
+  "expo": {
+    "name": "Home-Cine",
+    "slug": "Home-Cine",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
