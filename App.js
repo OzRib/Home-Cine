@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import { FlatList, StyleSheet, Image, useWindowDimensions, Text, View, StatusBar, ScrollView, TouchableNativeFeedback, DrawerLayoutAndroid } from 'react-native';
+import { FlatList, StyleSheet, Image, Text, View, StatsBar, ScrollView, TouchableNativeFeedback, DrawerLayoutAndroid } from 'react-native';
 
 const Lancamentos = [
 	{
@@ -161,8 +161,7 @@ const Head = (props) => {
   return(
     <View style={styles.header}>
 	<View style={styles.head}>
-	    <Menu onPress={props.onPress} style={styles.menu}>Home Cine</Menu>
-	    <Text style={styles.logo}>Logo</Text>
+	    <Menu textStyle={styles.textHead} onPress={props.onPress} style={styles.menu}>Home Cine</Menu>
 	 </View>
     </View>
   );
@@ -178,9 +177,6 @@ const OptionMenu = (props) => {
 
 export default function App() {
   const drawer = useRef(null)
-  var vertical = Boolean();
-  const window = useWindowDimensions();
-  window.height>window.width ? vertical=true: vertical=false;
   const sideMenu = () => (
     <View style={styles.container}>
 	  <ScrollView>
@@ -219,11 +215,11 @@ export default function App() {
 const colors = {
 	primary: {
 		black: '#252525',
-		red: '#00A4FF',
+		blue: '#00A4FF',
 	},
 	secondary:{
 		black: '#1C1C1C',
-		red: '#0080FF',
+		blue: '#0080FF',
 	},
 }
 
@@ -253,7 +249,7 @@ const styles = StyleSheet.create({
     color: 'white',
   },
   topic: {
-    marginLeft: '4%',
+    marginLeft: 16,
     fontSize:34,
     color: 'white',
   },
@@ -278,7 +274,7 @@ const styles = StyleSheet.create({
   },
   header: {
     alignItems: 'flex-start',
-    backgroundColor: colors.primary.red,
+    backgroundColor: colors.primary.blue,
     height: '8%',
     width: '100%',
   },
@@ -287,13 +283,14 @@ const styles = StyleSheet.create({
     marginTop: '2%',
   },
   menu: {
-    paddingVertical: '2%',
-    paddingHorizontal: '4%',
+    paddingVertical: '1%',
+    paddingHorizontal: '2%',
     marginLeft: '4%',
     marginRight: '46%',
-    backgroundColor: colors.secondary.red,
+    backgroundColor: colors.secondary.blue,
   },
-  logo: {
-    fontSize: 20,
+  textHead: {
+    fontSize: 25,
+    color: 'white',
   },
 });
