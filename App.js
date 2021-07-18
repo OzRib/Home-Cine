@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import { FlatList, StyleSheet, Image, Text, View, StatsBar, ScrollView, TouchableNativeFeedback, DrawerLayoutAndroid } from 'react-native';
+import { FlatList, StyleSheet, Image, Text, View, StatusBar, ScrollView, TouchableNativeFeedback, DrawerLayoutAndroid } from 'react-native';
 
 const Lancamentos = [
 	{
