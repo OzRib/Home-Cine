@@ -8,8 +8,13 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "ios": {
+    	"bundleIdentifier": "com.rando.homecine",
+	"buildNumber": "1.0.0"
+    },
     "android": {
-      "package": "com.rando.homecine"
+      "package": "com.rando.homecine",
+      "versionCode": 1
     }
   }
 }
