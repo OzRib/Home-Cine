@@ -9,7 +9,7 @@ It took me 3 days to build each day with 1 hour of work.
 3 hours of work.
 
 # Demonstration app video below
-![demonstration](https://user-images.githubusercontent.com/73843439/126081358-9650115e-b41e-4007-aa5b-50b3452112f6.mp4)
+https://user-images.githubusercontent.com/73843439/126081358-9650115e-b41e-4007-aa5b-50b3452112f6.mp4
 
 # How to install?
 To download the apk in your device
