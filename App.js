@@ -1,3 +1,4 @@
+import * as ScreenOrientation from 'expo-screen-orientation';
 import React, { useRef } from 'react';
 import { FlatList, StyleSheet, Image, Text, View, StatusBar, ScrollView, TouchableNativeFeedback, DrawerLayoutAndroid } from 'react-native';
 
@@ -61,7 +62,15 @@ const OptionMenu = (props) => {
 	);
 }
 
+async function lockOrientation(){
+	const PORTRAIT = ScreenOrientation.OrientationLock.PORTRAIT
+
+	await ScreenOrientation.lockAsync(PORTRAIT)
+}
+
 export default function App() {
+  lockOrientation()
+
   const drawer = useRef(null)
   const sideMenu = () => (
     <View style={styles.container}>
