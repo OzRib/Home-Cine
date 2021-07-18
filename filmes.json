@@ -1,0 +1,113 @@
+{
+	"Lancamentos":[
+		{
+			"name": "jiujitsu",
+			"src": "https://www.cafecomfilme.com.br/media/k2/items/cache/88cc9d1b5b2565b9ef4856fa522b0a33_XL.jpg?t=20201020_210104"
+		},
+		{
+			"name": "T.E.N.E.T",
+			"src": "https://www.musicbox-records.com/10106-large_default/tenet-deluxe-edition.jpg"
+		},
+		{
+			"name": "Rei dos ladrões",
+			"src": "https://filmesflix.online/wp-content/uploads/2018/09/Screenshot_3.png"
+		},
+		{
+			"name": "Posto de Combate",
+			"src": "https://www.magazine-hd.com/apps/wp/wp-content/uploads/2020/07/posto-de-combate-poster-pt.jpg"
+		},
+		{
+			"name": "Mulher Maravilha 1984",
+			"src": "http://www.atoupeira.com.br/wp-content/uploads/2020/06/mulher-maravilha-1984-estreia-1-de-outubro.jpg"
+		}
+	],
+	"hot": [
+		{
+			"name": "Capturado",
+			"src": "https://bluraytorrent.com.br/wp-content/uploads/2020/10/n2jxIxIwvYCAgye13xD6tGNOzCq.jpg"
+		},
+		{
+			"name":"Jumanji",
+			"src": "https://cdn.collider.com/wp-content/uploads/2019/11/jumanji-2-character-poster-kevin-hart.jpg"
+		},
+		{
+			"name": "Aves de Rapina",
+			"src": "https://img.elo7.com.br/product/zoom/2C04FB9/big-poster-filme-aves-de-rapina-lo008-tamanho-90x60-cm-geek.jpg"
+		},
+		{
+			"name": "Scooby O filme",
+			"src": "http://br.web.img3.acsta.net/pictures/20/03/05/20/58/4942195.jpg"
+		},
+		{
+			"name": "Bad Boys Para Sempre",
+			"src": "https://filmeshd.pro/wp-content/uploads/2020/04/sTKl7J5OWnsZSTRiKPIvPx4ngBG-scaled.jpg"
+		}
+	],
+	"prev":[
+		{
+			"name": "John Wick 3",
+			"src": "https://img01.mgo-images.com/image/thumbnail/v2/content/MMV0B5CF793A479BF53CAECF57B881CEFA18.jpeg"
+		},
+		{
+			"name": "Naruto: o filme",
+			"src": "https://animesonline.games/wp-content/uploads/2019/07/the-last-naruto-filme-online-games.jpg"
+		},
+		{
+			"name": "Um Lugar Silencioso",
+			"src": "https://playbrains.files.wordpress.com/2018/04/um-lugar-silencioso-poster.jpg?w=775"
+		},
+		{
+			"name": "Coringa",
+			"src": "https://belacine.com.br/wp-content/uploads/2019/12/tNMAhvD6IvEQk6xUn1qweyvmt00.jpg"
+		},
+		{
+			"name": "Interestelar",
+			"src": "https://m1.paperblog.com/i/526/5267075/interestelar-L-psYBM9.jpeg"
+		}
+	],
+	"forYou": [
+		{
+			"name": "Vingadores Guerra\nInfinita",
+			"src": "http://br.web.img2.acsta.net/pictures/18/03/16/15/08/2019826.jpg"
+		},
+		{
+			"name": "Velozes e Furiosos 8",
+			"src": "http://vortexcultural.com.br/images/2017/04/f8-poster.jpg"
+		},
+		{
+			"name": "Rambo 5",
+			"src": "http://de.web.img2.acsta.net/pictures/19/08/12/11/55/4597870.jpg"
+		},
+		{
+			"name": "Até O Último Homem",
+			"src": "https://cinegarimpo.com.br/wp/content/uploads/2017/02/cinegarimpo.com.br-ate-o-ultimo-homem-hacksaw-ridge-ate-o-ultimo-homem.jpg"
+		},
+		{
+			"name": "Dragon Ball Super\nBroly",
+			"src": "https://fanart.tv/fanart/movies/503314/movieposter/dragon-ball-super-broly-5cb62e2994165.jpg"
+		}
+	],
+	"love": [
+		{
+			"name": "Para Todos Os Garotos\nQue Já Amei",
+			"src": "https://www.cafecomfilme.com.br/media/k2/items/cache/164819eac6b2c732bc404397ac7420ff_XL.jpg?t=1534659018"
+		},
+		{
+			"name": "Titanic",
+			"src": "https://fanart.tv/fanart/movies/597/movieposter/titanic-521a6089df23f.jpg"
+		},
+		{
+			"name": "Por Lugares incríveis",
+			"src": "http://imagens.lelivros.love/2015/04/Baixar-Livro-Por-Lugares-Incriveis-Jennifer-Niven-em-PDF-ePub-e-Mobi.jpg"
+		},
+		{
+			"name": "Brilho Eterno de Uma\nMente Sem\nLembranças",
+			"src": "https://www.papodecinema.com.br/wp-content/uploads/2011/12/20200318-brilho-eterno-de-uma-mente-sem-lembrancas-papo-de-cinema-cartaaz.jpg"
+		},
+		{
+			"name": "Nasce Uma Estrela",
+			"src": "https://imagens.publicocdn.com/imagens.aspx/702040?tp=KM"
+		}
+
+	]
+}
